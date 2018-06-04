@@ -4,6 +4,6 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
 
-Rest in Peace. Bye-bye github.
+🎌 Rest in Peace. Bye-bye github.
 
 ![github-rip](https://i.imgur.com/D9bJcfo.png)
